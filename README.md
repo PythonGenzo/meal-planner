@@ -11,5 +11,6 @@ By giving calories, the app will provide you the daily meal plan for your health
 
 **Meal planner page** 
 
-<img src="" title="Meal planner page">
+<img src="https://github.com/PythonGenzo/meal-planner/blob/main/screenshots/Meal-Planner-1.png" title="Meal planner page">
 
+<img src="https://github.com/PythonGenzo/meal-planner/blob/main/screenshots/Meal-Planner-2.png" title="Meal planner page">
